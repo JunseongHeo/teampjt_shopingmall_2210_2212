@@ -15,10 +15,10 @@
 ### 🛠 기술스택
 
 ##### Front-end : HTML, CSS, JavaScript, Bootstrap, jQuery, JSP
-##### Back-end : JAVA, Tomcat, SpringBoot, Mybatise
-##### DB : MySQL
+##### Back-end : JAVA 17, Tomcat 9.0, SpringBoot, Mybatise
+##### DB : MySQL 8.0
 ##### VCS : Git
-##### Tool : IntelliJ, Gradle, DBeaver, Postman, 
+##### Tool : IntelliJ, Gradle, DBeaver, Postman 
 ##### Communication : Notion
 
 
