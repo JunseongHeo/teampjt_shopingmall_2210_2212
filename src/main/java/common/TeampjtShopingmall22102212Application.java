@@ -1,4 +1,4 @@
-package com.teampjt_shopingmall_2210_2212.teampjt_shopingmall_2210_2212;
+package common;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

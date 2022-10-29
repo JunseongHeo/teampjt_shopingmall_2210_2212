@@ -1,4 +1,4 @@
-package com.teampjt_shopingmall_2210_2212.teampjt_shopingmall_2210_2212.controller;
+package common.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

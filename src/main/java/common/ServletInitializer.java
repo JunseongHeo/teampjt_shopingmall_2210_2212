@@ -1,4 +1,4 @@
-package com.teampjt_shopingmall_2210_2212.teampjt_shopingmall_2210_2212;
+package common;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
