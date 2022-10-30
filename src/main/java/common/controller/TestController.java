@@ -16,6 +16,6 @@ public class TestController {
         Date date = new Date();
         SimpleDateFormat formatter = new SimpleDateFormat("yyy-MM-dd HH:mm:ss");
 
-        return formatter.format(date) + " test 페이지 출력. 깃허브 초대하게 깃허브계정 이메일좀 주세요!";
+        return formatter.format(date) + " test 페이지 출력";
     }
 }
