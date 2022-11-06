@@ -16,6 +16,6 @@ public class TestController {
         Date date = new Date();
         SimpleDateFormat formatter = new SimpleDateFormat("yyy-MM-dd HH:mm:ss");
 
-        return formatter.format(date) + " test 페이지 출력";
+        return formatter.format(date) + " test 페이지 출력1";
     }
 }
